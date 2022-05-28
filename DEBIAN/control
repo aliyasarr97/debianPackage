@@ -1,0 +1,5 @@
+Package: libtest
+Version: 0.1
+Maintainer: Ali Yasar
+Architecture: all
+Description: first example for debain package
